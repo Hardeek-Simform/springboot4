@@ -35,7 +35,7 @@ public class UserController {
     }
 
     @GetMapping("/{billNo}")
-    public UserDTO getUserVehicle(@PathVariable("billNo") int billNo) {
+    public UserDTO getUserVehicleByBillNo(@PathVariable("billNo") int billNo) {
         viewCalled++;
         log.info("Inside UserController, view called by user:" + viewCalled);
         UserDTO selectedUserVehicle = userService.getSelectedUserVehicle(billNo);

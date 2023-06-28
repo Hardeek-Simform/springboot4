@@ -32,7 +32,7 @@ public class EmployeeController {
     }
 
     @DeleteMapping("/{billNo}")
-    public void addUserVehicle(@PathVariable("billNo") int billNo) {
+    public void deleteUserByBillNo(@PathVariable("billNo") int billNo) {
         deleteCall++;
         log.info("inside EmployeeController, total data deletion called:" + userListCall);
         employeeService.deleteEntry(billNo);
