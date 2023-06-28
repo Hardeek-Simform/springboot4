@@ -22,10 +22,12 @@ Steps to use:
 
 2. Fire the URL in postman
    - Few data has already been added inside 
+![Screenshot from 2023-06-28 12-02-05-min](https://github.com/Hardeek-Simform/springboot4/assets/125272475/09883069-c204-4be8-9312-01b3b0dab100)
 
 
 3. You can see the logs aswell which will show the count of hits on the Api
-     ![Uploading Screenshot from 2023-06-28 12-04-04.jpeg…]()
+ ![Screenshot from 2023-06-28 12-04-04-min](https://github.com/Hardeek-Simform/springboot4/assets/125272475/20684363-1616-4cf5-bb9e-ab1ba1b63572)
+    
 
 
 
