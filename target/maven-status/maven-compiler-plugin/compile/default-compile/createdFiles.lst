@@ -1,0 +1,16 @@
+com/practical3/vehicleregistory/service/UserService.class
+com/practical3/vehicleregistory/entity/dto/VerifierDTO.class
+com/practical3/vehicleregistory/controller/RegistryVerifierController.class
+com/practical3/vehicleregistory/service/EmployeeService.class
+com/practical3/vehicleregistory/repository/UserVehicleRepo.class
+com/practical3/vehicleregistory/exception/ExceptionHandler.class
+com/practical3/vehicleregistory/entity/enums/VehicleCategory.class
+com/practical3/vehicleregistory/exception/UserVehicleNotFound.class
+com/practical3/vehicleregistory/controller/UserController.class
+com/practical3/vehicleregistory/VehicleRegistoryApplication.class
+com/practical3/vehicleregistory/controller/EmployeeController.class
+com/practical3/vehicleregistory/exception/UserNotFoundException.class
+com/practical3/vehicleregistory/entity/dto/UserDTO.class
+com/practical3/vehicleregistory/service/VehicleRegistryService.class
+com/practical3/vehicleregistory/entity/UserVehicle.class
+com/practical3/vehicleregistory/entity/RegistryMember.class
