@@ -1,4 +1,4 @@
-package com.practical3.vehicleregistory.exception;
+package com.practical4.vehicleregistory.exception;
 
 public class UserVehicleNotFound extends RuntimeException {
 }

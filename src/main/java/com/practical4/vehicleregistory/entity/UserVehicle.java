@@ -1,6 +1,6 @@
-package com.practical3.vehicleregistory.entity;
+package com.practical4.vehicleregistory.entity;
 
-import com.practical3.vehicleregistory.entity.enums.VehicleCategory;
+import com.practical4.vehicleregistory.entity.enums.VehicleCategory;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

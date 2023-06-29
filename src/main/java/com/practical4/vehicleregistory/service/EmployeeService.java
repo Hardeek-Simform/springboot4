@@ -1,8 +1,8 @@
-package com.practical3.vehicleregistory.service;
+package com.practical4.vehicleregistory.service;
 
-import com.practical3.vehicleregistory.entity.UserVehicle;
-import com.practical3.vehicleregistory.exception.UserNotFoundException;
-import com.practical3.vehicleregistory.repository.UserVehicleRepo;
+import com.practical4.vehicleregistory.entity.UserVehicle;
+import com.practical4.vehicleregistory.exception.UserNotFoundException;
+import com.practical4.vehicleregistory.repository.UserVehicleRepo;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

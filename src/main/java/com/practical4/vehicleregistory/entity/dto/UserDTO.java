@@ -1,6 +1,6 @@
-package com.practical3.vehicleregistory.entity.dto;
+package com.practical4.vehicleregistory.entity.dto;
 
-import com.practical3.vehicleregistory.entity.enums.VehicleCategory;
+import com.practical4.vehicleregistory.entity.enums.VehicleCategory;
 import lombok.*;
 
 @Data

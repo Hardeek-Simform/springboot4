@@ -1,4 +1,4 @@
-package com.practical3.vehicleregistory.entity.enums;
+package com.practical4.vehicleregistory.entity.enums;
 
 import lombok.Getter;
 

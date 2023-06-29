@@ -1,4 +1,4 @@
-package com.practical3.vehicleregistory;
+package com.practical4.vehicleregistory;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

@@ -1,8 +1,8 @@
-package com.practical3.vehicleregistory.controller;
+package com.practical4.vehicleregistory.controller;
 
-import com.practical3.vehicleregistory.entity.dto.UserDTO;
-import com.practical3.vehicleregistory.exception.UserNotFoundException;
-import com.practical3.vehicleregistory.service.UserService;
+import com.practical4.vehicleregistory.entity.dto.UserDTO;
+import com.practical4.vehicleregistory.exception.UserNotFoundException;
+import com.practical4.vehicleregistory.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

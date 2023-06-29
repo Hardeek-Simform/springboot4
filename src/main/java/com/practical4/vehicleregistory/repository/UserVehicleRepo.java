@@ -1,7 +1,7 @@
-package com.practical3.vehicleregistory.repository;
+package com.practical4.vehicleregistory.repository;
 
-import com.practical3.vehicleregistory.entity.UserVehicle;
-import com.practical3.vehicleregistory.entity.enums.VehicleCategory;
+import com.practical4.vehicleregistory.entity.UserVehicle;
+import com.practical4.vehicleregistory.entity.enums.VehicleCategory;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;

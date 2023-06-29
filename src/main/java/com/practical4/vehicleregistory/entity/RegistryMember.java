@@ -1,4 +1,4 @@
-package com.practical3.vehicleregistory.entity;
+package com.practical4.vehicleregistory.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

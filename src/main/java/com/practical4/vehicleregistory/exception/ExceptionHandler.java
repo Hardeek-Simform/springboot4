@@ -1,4 +1,4 @@
-package com.practical3.vehicleregistory.exception;
+package com.practical4.vehicleregistory.exception;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

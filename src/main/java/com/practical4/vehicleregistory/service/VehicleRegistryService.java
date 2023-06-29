@@ -1,8 +1,8 @@
-package com.practical3.vehicleregistory.service;
+package com.practical4.vehicleregistory.service;
 
-import com.practical3.vehicleregistory.entity.UserVehicle;
-import com.practical3.vehicleregistory.entity.dto.VerifierDTO;
-import com.practical3.vehicleregistory.repository.UserVehicleRepo;
+import com.practical4.vehicleregistory.entity.UserVehicle;
+import com.practical4.vehicleregistory.entity.dto.VerifierDTO;
+import com.practical4.vehicleregistory.repository.UserVehicleRepo;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
